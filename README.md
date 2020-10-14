@@ -17,6 +17,9 @@ This application is aimed at assisting the teacher to monitor the students realt
 
 The python script 'predict_attention.py' uses a command line keyword argument "--device" which could either use a CPU or VPU (virtual processing unit).
 
+#### Sample video of script running
+[![](https://img.youtube.com/vi/lUTDjViGrF4/0.jpg)](https://www.youtube.com/watch?v=lUTDjViGrF4)
+
 #### Hardware
 In this project, [Intel Movidius Neural Compute Stick 2](https://store.intelrealsense.com/buy-intel-neural-compute-stick-2.html) was used as the VPU
 
